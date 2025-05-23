@@ -31,6 +31,9 @@
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-2" value="NAS" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" vertex="1" parent="O0rZPtdsScXkaoj67VYM-2">
           <mxGeometry x="33" y="355" width="162" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OOCLbScFP8qNxrVs9ZYG-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="130" width="450" height="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
