@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O0rZPtdsScXkaoj67VYM-2" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
-          <mxGeometry x="300" y="120" width="204" height="520" as="geometry" />
+          <mxGeometry x="312" y="120" width="204" height="520" as="geometry" />
         </mxCell>
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-3" value="Patch Panel" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
           <mxGeometry x="33" y="40" width="162" height="15" as="geometry" />
@@ -13,23 +13,26 @@
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-10" value="24-Port-PoE Switch" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.switches_1;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
           <mxGeometry x="33" y="70" width="162" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-36" value="Notebook" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" vertex="1" parent="O0rZPtdsScXkaoj67VYM-2">
+          <mxGeometry x="33" y="210" width="162" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-5" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="150" width="162" height="15" as="geometry" />
+          <mxGeometry x="33" y="225" width="162" height="15" as="geometry" />
         </mxCell>
         <mxCell id="O0rZPtdsScXkaoj67VYM-3" value="PC2" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="165" width="162" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OOCLbScFP8qNxrVs9ZYG-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="245" width="162" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="O0rZPtdsScXkaoj67VYM-4" value="PC1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="260" width="162" height="80" as="geometry" />
+          <mxGeometry x="33" y="240" width="162" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-8" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="340" width="162" height="15" as="geometry" />
+          <mxGeometry x="33" y="420" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="OOCLbScFP8qNxrVs9ZYG-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.plate;fillColor=#e8e8e8;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
+          <mxGeometry x="33" y="320" width="162" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O0rZPtdsScXkaoj67VYM-4" value="PC1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
+          <mxGeometry x="33" y="340" width="162" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-2" value="NAS" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="O0rZPtdsScXkaoj67VYM-2" vertex="1">
-          <mxGeometry x="33" y="355" width="162" height="50" as="geometry" />
+          <mxGeometry x="33" y="435" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOCLbScFP8qNxrVs9ZYG-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="1040" y="130" width="450" height="400" as="geometry" />
@@ -152,6 +155,35 @@
         <mxCell id="UiN1g2cW30baHYT93fmF-28" value="USB-C&lt;div&gt;Gen 3.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-27">
           <mxGeometry x="-0.1714" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-29" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="213" as="sourcePoint" />
+            <mxPoint x="1040" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-30" value="USB-C&lt;div&gt;Gen 3.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-29">
+          <mxGeometry x="-0.1714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-31" value="HDMI" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="978" y="400.5" as="sourcePoint" />
+            <mxPoint x="1038" y="400.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-32" value="HDMI" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="978" y="305" as="sourcePoint" />
+            <mxPoint x="1038" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-33" value="HDMI" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1431" y="80" as="sourcePoint" />
+            <mxPoint x="1431" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
