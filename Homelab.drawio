@@ -81,6 +81,79 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-15" value="LAN5" style="endArrow=none;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;entryX=0.733;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="79" as="sourcePoint" />
+            <mxPoint x="1401.85" y="130.20000000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-16" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="282" as="sourcePoint" />
+            <mxPoint x="1040" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-17" value="DP1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-16">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-18" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="293" as="sourcePoint" />
+            <mxPoint x="1040" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-19" value="DP2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-18">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-21" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="347.5" as="sourcePoint" />
+            <mxPoint x="1040" y="347.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-22" value="DP3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-21">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-23" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="358.5" as="sourcePoint" />
+            <mxPoint x="1040" y="358.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-24" value="DP4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-23">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-25" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="240" as="sourcePoint" />
+            <mxPoint x="1040" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-26" value="USB-C&lt;div&gt;Gen 3.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-25">
+          <mxGeometry x="-0.1714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-27" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="377" as="sourcePoint" />
+            <mxPoint x="1040" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN1g2cW30baHYT93fmF-28" value="USB-C&lt;div&gt;Gen 3.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UiN1g2cW30baHYT93fmF-27">
+          <mxGeometry x="-0.1714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
